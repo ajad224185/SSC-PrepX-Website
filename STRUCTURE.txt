@@ -1,0 +1,33 @@
+SSC PrepX Website - merged structure
+
+/
+|-- index.html                         # main website entry
+|-- index-B-txERNK.js                  # main app/router
+|-- admin-CXcj54Og.js                  # admin page bundle (login gate removed)
+|-- catalog-assets-BDBfRMhU.js        # admin catalog assets
+|-- loader-circle-BcPCYwlh.js
+|-- routes-BcYjdY_C.js
+|-- routes-PPXtYiKA.js
+|-- app._appId-DnSVsyUl.js
+|-- hosted-assets-Qz5fqsfA.js
+|-- react-dom-S3sQEsCI.js
+|-- preload-helper-QnIWIkhl.js
+|-- createLucideIcon-D-jZi3Dt.js
+|-- button-BKtkBJzi.js
+|-- mobile-bottom-nav-kkw-UxSb.js
+|-- events.270c78a44fc53e7b.js
+|-- soon-C5UaWpSR.js
+|-- arrow-up-right-xPb7FBzK.js
+|-- styles-BsH6BGo9.css
+|-- bat-universe-logo.gif
+|-- bat-universe-icon.png
+|-- slider-banner-1-B5Emw1Dq.jpg
+|-- slider-banner-2-Dd6zu9av.jpg
+|-- slider-banner-3-Je9TECHR.jpg
+|-- file
+|-- admin                            # prerendered admin document
+|-- favicon.png (if present)
+|-- UPLOAD_TO_GITHUB.txt
+`-- STRUCTURE.txt
+
+Source used: uploaded ZIP 2 + uploaded ZIP 3. ZIP 1 was kept out because it is a separate older build with a different entry bundle and would create conflicting duplicate app files.

@@ -1,0 +1,12 @@
+SSC PrepX - GitHub Upload
+
+1. Create a new GitHub repository, e.g. SSC-PrepX-Website.
+2. Extract this ZIP on your phone/PC.
+3. Open the extracted folder. Upload the CONTENTS of this folder to the GitHub repository root.
+4. Do NOT upload the ZIP itself inside GitHub.
+5. Keep index.html in the repository root.
+6. Deploy the repository in Vercel with Framework Preset = Other, Build Command blank, Output Directory = .
+7. Main site: /
+8. Admin route: /admin
+
+Important: The admin login screen has been removed from the frontend bundle. This is NOT a secure admin system. Do not put secrets/API service-account keys in frontend files. If the backend/database has its own authorization rules, those rules still apply.
